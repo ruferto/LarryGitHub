@@ -2,4 +2,4 @@
 
 Esta saga de libros cuenta la historia de un *hacker* excepcional.
 
-**Andrés**, Git fan
+**Andrés**, Git and LP fan
